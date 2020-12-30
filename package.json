@@ -1,0 +1,23 @@
+{
+  "name": "largestnumber",
+  "version": "1.0.0",
+  "description": "largestNumber",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apichart-imbest/largestNumber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apichart-imbest/largestNumber/issues"
+  },
+  "homepage": "https://github.com/apichart-imbest/largestNumber#readme"
+}
